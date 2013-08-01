@@ -1,3 +1,6 @@
 <div ng-controller="MixCtrl">
- THis will be the main view for a "mix"
+	<div class="picture" style="background:url({{imageUrl}});"></div>
+	<div class="text">{{text}}</div>
+	<div class="author"> - <a href="{{authorUrl}}">@{{author}}</a></div>
+	<div class="imageHost">image hosted at <a href="{{imageHostUrl}}">{{imageHost}}</a></div>
 </div>
