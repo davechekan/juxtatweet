@@ -1,0 +1,11 @@
+Flask
+Flask-Classy
+Flask-SQLAlchemy
+Flask-Testing
+SQLAlchemy
+psycopg2
+ipdb
+ipython
+pudb
+py-bcrypt
+nose
